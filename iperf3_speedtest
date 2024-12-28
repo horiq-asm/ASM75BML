@@ -42,3 +42,25 @@ Accepted connection from 192.168.1.82, port 47390
 [ ID] Interval           Transfer     Bandwidth
 [  5]   0.00-10.04  sec  0.00 Bytes  0.00 bits/sec                  sender
 [  5]   0.00-10.04  sec  2.26 GBytes  1.93 Gbits/sec                  receiver
+
+#### CM5 -> PCIe --> 
+0001:01:00.0 Ethernet controller: Raspberry Pi Ltd RP1 PCIe 2.0 South Bridge
+####
+Accepted connection from 192.168.1.38, port 36322
+[  5] local 192.168.1.85 port 5201 connected to 192.168.1.38 port 36338
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-1.00   sec   107 MBytes   896 Mbits/sec
+[  5]   1.00-2.00   sec   111 MBytes   934 Mbits/sec
+[  5]   2.00-3.00   sec   111 MBytes   935 Mbits/sec
+[  5]   3.00-4.00   sec   111 MBytes   935 Mbits/sec
+[  5]   4.00-5.00   sec   111 MBytes   929 Mbits/sec
+[  5]   5.00-6.00   sec   111 MBytes   928 Mbits/sec
+[  5]   6.00-7.00   sec   111 MBytes   934 Mbits/sec
+[  5]   7.00-8.00   sec   111 MBytes   930 Mbits/sec
+[  5]   8.00-9.00   sec   111 MBytes   935 Mbits/sec
+[  5]   9.00-10.00  sec   111 MBytes   932 Mbits/sec
+[  5]  10.00-10.04  sec  4.01 MBytes   851 Mbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-10.04  sec  0.00 Bytes  0.00 bits/sec                  sender
+[  5]   0.00-10.04  sec  1.09 GBytes   928 Mbits/sec                  receiver
